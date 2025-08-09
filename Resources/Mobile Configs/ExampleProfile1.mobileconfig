@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CompanyAbbreviation</key>
+			<string>BMA</string>
+			<key>CompanyDisplayName</key>
+			<string>Big Mac Admin Industries</string>
+			<key>LogoURL</key>
+			<string>https://avatars.githubusercontent.com/u/106293503?v=4</string>
+			<key>PayloadDisplayName</key>
+			<string>BigMacAdmin Example</string>
+			<key>PayloadIdentifier</key>
+			<string>com.bigmacadmin.example.74C05550-ECB0-462A-B266-A2101196D4D1</string>
+			<key>PayloadType</key>
+			<string>com.bigmacadmin.example</string>
+			<key>PayloadUUID</key>
+			<string>74C05550-ECB0-462A-B266-A2101196D4D1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Big Mac Admin Example Profile 1</string>
+	<key>PayloadIdentifier</key>
+	<string>BigMacAdmin.5111B721-AE10-4127-856E-478E41517D07</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5111B721-AE10-4127-856E-478E41517D07</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>

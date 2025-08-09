@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Dock</key>
+			<array>
+				<string>/System/Applications/App Store.app</string>
+				<string>/System/Applications/TextEdit.app</string>
+				<string>/System/Applications/System Settings.app</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>BigMacAdmin Example</string>
+			<key>PayloadIdentifier</key>
+			<string>com.bigmacadmin.example.B12701DC-DA15-4565-B244-2076263DC9A7</string>
+			<key>PayloadType</key>
+			<string>com.bigmacadmin.example</string>
+			<key>PayloadUUID</key>
+			<string>B12701DC-DA15-4565-B244-2076263DC9A7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Big Mac Admin Example Dock 1</string>
+	<key>PayloadIdentifier</key>
+	<string>BigMacAdmin.C23D93BF-9845-41F6-8B0B-9ECE4FE58762</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C23D93BF-9845-41F6-8B0B-9ECE4FE58762</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
