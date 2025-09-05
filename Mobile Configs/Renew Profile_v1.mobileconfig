@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>OptionalArguments</key>
+			<dict>
+				<key>AdditionalNormalOptions</key>
+				<string>--height 380 --width 440</string>
+				<key>Deadline</key>
+				<integer>21</integer>
+				<key>MessageIcon</key>
+				<string>/Users/Shared/Renew.png</string>
+				<key>Title</key>
+				<string>Please Restart</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Renew</string>
+			<key>PayloadIdentifier</key>
+			<string>com.secondsonconsulting.renew.399CF37B-9F46-4FB9-BB00-B74A7FD41458</string>
+			<key>PayloadType</key>
+			<string>com.secondsonconsulting.renew</string>
+			<key>PayloadUUID</key>
+			<string>399CF37B-9F46-4FB9-BB00-B74A7FD41458</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RequiredArguments</key>
+			<dict>
+				<key>DeferralDuration</key>
+				<integer>8</integer>
+				<key>MaximumDeferrals</key>
+				<integer>-1</integer>
+				<key>NotificationThreshold</key>
+				<integer>8</integer>
+				<key>UptimeThreshold</key>
+				<integer>14</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Untitled</string>
+	<key>PayloadIdentifier</key>
+	<string>SecondSon.D99C3C43-5E73-4362-9085-FD7BA3E9A659</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D99C3C43-5E73-4362-9085-FD7BA3E9A659</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

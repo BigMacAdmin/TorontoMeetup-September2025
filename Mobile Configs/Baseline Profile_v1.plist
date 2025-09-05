@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BlurScreen</key>
+	<false/>
+	<key>CleanupAfterUse</key>
+	<false/>
+	<key>DialogListOptions</key>
+	<string>--icon "/usr/local/Baseline/Icons/Baseline.png"</string>
+	<key>InitialScripts</key>
+	<array>
+		<dict>
+			<key>AsUser</key>
+			<false/>
+			<key>DisplayName</key>
+			<string>System Setup</string>
+			<key>ScriptPath</key>
+			<string>SystemSetup.sh</string>
+		</dict>
+	</array>
+	<key>Installomator</key>
+	<array>
+		<dict>
+			<key>DisplayName</key>
+			<string>Firefox</string>
+			<key>Icon</key>
+			<string>Firefox.png</string>
+			<key>Label</key>
+			<string>firefoxpkg</string>
+			<key>Subtitle</key>
+			<string>No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesnt sell you out.</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>iMazing Profile Editor</string>
+			<key>Icon</key>
+			<string>iMazingProfileEditor.png</string>
+			<key>Label</key>
+			<string>imazingprofileeditor</string>
+			<key>Subtitle</key>
+			<string>A free app to easily define settings that are ready to be deployed locally or via MDM to fleets of iPhones, iPads, Macs, and other Apple devices.</string>
+		</dict>
+	</array>
+	<key>Packages</key>
+	<array>
+		<dict>
+			<key>DisplayName</key>
+			<string>Company Logos</string>
+			<key>Icon</key>
+			<string>BigMacAdmin.png</string>
+			<key>PackagePath</key>
+			<string>ExamplePKG.pkg</string>
+			<key>Subtitle</key>
+			<string>Company logos and branding for IT.</string>
+		</dict>
+	</array>
+	<key>ProgressBar</key>
+	<true/>
+	<key>ProgressBarDisplayNames</key>
+	<true/>
+	<key>Restart</key>
+	<false/>
+	<key>Scripts</key>
+	<array>
+		<dict>
+			<key>Arguments</key>
+			<string>policy -event userSetup</string>
+			<key>AsUser</key>
+			<false/>
+			<key>DisplayName</key>
+			<string>MDM Binary Policy</string>
+			<key>ScriptPath</key>
+			<string>/usr/local/bin/binary</string>
+			<key>Icon</key>
+			<string>SF=folder,color=teal</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OptionalArguments</key>
+	<dict>
+		<key>AdditionalNormalOptions</key>
+		<string>--height 380 --width 440</string>
+		<key>Deadline</key>
+		<integer>21</integer>
+		<key>MessageIcon</key>
+		<string>/Users/Shared/Renew.png</string>
+		<key>Title</key>
+		<string>Please Restart</string>
+	</dict>
+	<key>RequiredArguments</key>
+	<dict>
+		<key>DeferralDuration</key>
+		<integer>8</integer>
+		<key>MaximumDeferrals</key>
+		<integer>-1</integer>
+		<key>NotificationThreshold</key>
+		<integer>8</integer>
+		<key>UptimeThreshold</key>
+		<integer>14</integer>
+	</dict>
+</dict>
+</plist>
