@@ -1,7 +1,7 @@
 # Mac Admins Toronto Meetup Presentation - September 10, 2025
 Thank you for viewing or attending! If you have any questions, feel free to contact me on the [Mac Admins Slack](https://macadmins.org)
 
-My example scripts, Keynote, and all resources I used to build this presentation are contained in this repo.
+My example scripts, profiles, profile manifests, Keynote, and all resources I used to build this presentation are contained in this repository.
 
 ## Resources
 [Baseline](https://github.com/SecondSonConsulting/Baseline)
