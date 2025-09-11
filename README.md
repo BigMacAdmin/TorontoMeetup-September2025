@@ -20,3 +20,5 @@ My example scripts, profiles, profile manifests, Keynote, and all resources I us
 [Profile Manifests](https://github.com/ProfileManifests/ProfileManifests)
 
 [dockUtil](https://github.com/kcrawford/dockutil)
+
+[Marco Santa Dev - PlistBuddy Reference Guide](https://www.marcosantadev.com/manage-plist-files-plistbuddy/)
